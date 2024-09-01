@@ -1,4 +1,19 @@
-body{
-    color:greenyellow;
+body {
+    color: greenyellow;
     background-color: gray;
+    margin: 10px;
+    font-family: sans-serif;
+}
+
+header {
+    display: grid;
+    font-size: 30px;
+    justify-content: center;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    border-bottom: solid 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
