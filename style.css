@@ -11,7 +11,20 @@ header {
     justify-content: center;
     padding-left: 0px;
     padding-bottom: 10px;
-    border-bottom: solid 10px;
+    border-bottom: solid 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    display: grid;
+    font-size: 30px;
+    justify-content: center;
+    padding-left: 0px;
+    padding-top: 10px;
+    border-top: solid 5px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 10px;
